@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="21"
+     viewBox="0 0 22 21">
+    <defs>
+        <path id="v0uga" d="M1001.5 1606l19.5 19.5"/>
+        <path id="v0ugb" d="M1021 1606l-19.5 19.5"/>
+    </defs>
+    <g>
+        <g transform="translate(-1000 -1605)">
+            <g>
+                <use fill="#fff" fill-opacity="0" stroke="#979797" stroke-linecap="square" stroke-miterlimit="50"
+                     xlink:href="#v0uga"/>
+            </g>
+            <g>
+                <use fill="#fff" fill-opacity="0" stroke="#979797" stroke-linecap="square" stroke-miterlimit="50"
+                     xlink:href="#v0ugb"/>
+            </g>
+        </g>
+    </g>
+</svg>
